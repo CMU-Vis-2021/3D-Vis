@@ -6,6 +6,7 @@
 Fernanda Molina and Andrea Wan
 
 ## Abstract
+It was Fire Prevention Month in October, a month dedicated to improving fire safety awareness. This interactive narrative visualization attempts to investigate the many fire occurrences that have happened in Pittsburgh. Understanding the many types of fires that occur, as well as where and how frequently they occur, sheds insight on why fires occur in our community. The data analysis presented here reveals which fire incidents are the most prevalent, and hence which fire safety methods are most important to the community. The data we're looking at comes from the Western Pennsylvania Regional Data Center and contains a variety of criteria linked to fires that the Pittsburgh Bureau of Fire has responded to since January 2013.
 
 ## Link to Paper
 
