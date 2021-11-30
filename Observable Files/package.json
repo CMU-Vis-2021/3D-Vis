@@ -1,0 +1,14 @@
+{
+  "name": "5fd1b51fecd1c282",
+  "main": "5fd1b51fecd1c282@2042.js",
+  "version": "2042.0.0",
+  "homepage": "https://observablehq.com/d/5fd1b51fecd1c282",
+  "author": {
+    "name": "Andrea Wan",
+    "url": "https://observablehq.com/@d1d094ed1e90901c"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
