@@ -17,7 +17,7 @@ https://observablehq.com/d/5fd1b51fecd1c282
 
 View this notebook in your browser by clicking on the link above
 
-## Project Process
+## Project Process/Teamwork
+In order to create this interactive visualization, we took many pivots throughout our process. We first began by wanting to do an interactive/application that can help to explain the process of creating a 3D model. Since that did not really invovle a dataset and our proposal got rejected, we then thought on using a dataset about Fish Species; we were planning on doing a narrative about eating sustainability. However, we found the dataset was hard to load into Observable. We also thought about doing a narrative on susbtance abuse, but none of the datasets were clean or had much useful information. Therefore, we settled for a dataset on fire incidents in Pittsburgh. 
 
-## Teamwork
-With this dataset, Fernanda was mostly in charge of SQL queries as she had some beginner experience using PostgreSQL and creating load files. Andrea worked more on creating the visuals with Vega-lite as she had used that language for her previous assignment. Once we had the basic queries and the basic charts made, both of us worked together to translate the Vega-lite charts to Vega-lite using JSON.
+With this dataset, Fernanda was in charge of all the SQL queries as she had a good amount of experience using PostgreSQL and creating load files. Both of us worked on creating the visuals with Vega-lite as we had all gained experience from previous assignments. We worked to find new ways to make charts, add specific details such as tooltips and color schemas. Furthermore, we both contributed to adding to the narrative and analyzing the results given out by our interactive charts. Overall, the hardest part was thinking about how to use SQL to manipulate the data to make interesting observations. That being said, we did face challenges in creating the map and also figuring our how filtering works with the different types of charts.
