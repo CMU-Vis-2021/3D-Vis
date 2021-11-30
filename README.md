@@ -1,9 +1,9 @@
 # Fire Incidents in the City of Pittsburgh
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/32686125/143971961-1d576a8b-6ebb-4e03-8a44-7cd55b37dd26.gif)
+
 ## Team Members
 Fernanda Molina and Andrea Wan
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/32686125/143971961-1d576a8b-6ebb-4e03-8a44-7cd55b37dd26.gif)
 
 ## Abstract
 
