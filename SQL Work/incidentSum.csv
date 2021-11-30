@@ -1,0 +1,247 @@
+year,type_description,incident_type,total
+2013,"Outside rubbish, trash or waste fire",151,86
+2013,"Mobile property (vehicle) fire, Other",130,18
+2013,Building fire,111,167
+2013,"Cooking fire, confined to container",113,240
+2013,Fires in structure other than in a building,112,25
+2013,Passenger vehicle fire,131,119
+2013,"Outside rubbish fire, Other",150,65
+2013,Off-road vehicle or heavy equipment fire,138,3
+2013,"Trash or rubbish fire, contained",118,54
+2013,"Fire, Other",100,16
+2013,"Natural vegetation fire, Other",140,20
+2013,"Commercial Compactor fire, confined to rubbish",117,4
+2013,Dumpster or other outside trash receptacle fire,154,59
+2013,"Incinerator overload or malfunction, fire confined",115,2
+2013,Construction or demolition landfill fire,153,4
+2013,"Fuel burner/boiler malfunction, fire confined",116,11
+2013,Outside equipment fire,162,5
+2013,"Special outside fire, Other",160,20
+2013,Grass fire,143,18
+2013,Outside storage fire,161,2
+2013,Brush or brush-and-grass mixture fire,142,37
+2013,"Chimney or flue fire, confined to chimney or flue",114,3
+2013,"Forest, woods or wildland fire",141,5
+2013,Outside mailbox fire,164,1
+2013,Fire in mobile home used as fixed residence,121,1
+2013,Garbage dump or sanitary landfill fire,152,2
+2013,Road freight or transport vehicle fire,132,2
+2013,"Fire in portable building, fixed location",123,2
+2013,"Cultivated vegetation, crop fire, Other",170,1
+2013,"Fire in motor home, camper, recreational vehicle",122,1
+2014,Building fire,111,188
+2014,"Outside rubbish fire, Other",150,63
+2014,Passenger vehicle fire,131,106
+2014,Dumpster or other outside trash receptacle fire,154,57
+2014,"Cooking fire, confined to container",113,238
+2014,"Chimney or flue fire, confined to chimney or flue",114,8
+2014,"Mobile property (vehicle) fire, Other",130,22
+2014,"Outside rubbish, trash or waste fire",151,63
+2014,Brush or brush-and-grass mixture fire,142,56
+2014,"Special outside fire, Other",160,24
+2014,"Trash or rubbish fire, contained",118,42
+2014,"Fuel burner/boiler malfunction, fire confined",116,5
+2014,Fires in structure other than in a building,112,11
+2014,"Fire, Other",100,22
+2014,Outside storage fire,161,2
+2014,"Natural vegetation fire, Other",140,28
+2014,Outside gas or vapor combustion explosion,163,1
+2014,Grass fire,143,17
+2014,Outside stationary compactor/compacted trash fire,155,2
+2014,Outside equipment fire,162,3
+2014,"Forest, woods or wildland fire",141,4
+2014,Road freight or transport vehicle fire,132,7
+2014,"Cultivated vegetation, crop fire, Other",170,1
+2014,"Fire in portable building, fixed location",123,3
+2014,Off-road vehicle or heavy equipment fire,138,2
+2014,Construction or demolition landfill fire,153,1
+2015,"Trash or rubbish fire, contained",118,44
+2015,Building fire,111,230
+2015,"Cooking fire, confined to container",113,253
+2015,Passenger vehicle fire,131,98
+2015,"Outside rubbish fire, Other",150,48
+2015,"Natural vegetation fire, Other",140,31
+2015,"Chimney or flue fire, confined to chimney or flue",114,6
+2015,"Outside rubbish, trash or waste fire",151,82
+2015,"Mobile property (vehicle) fire, Other",130,22
+2015,Construction or demolition landfill fire,153,3
+2015,"Fire, Other",100,17
+2015,Brush or brush-and-grass mixture fire,142,59
+2015,"Special outside fire, Other",160,24
+2015,"Forest, woods or wildland fire",141,7
+2015,Road freight or transport vehicle fire,132,5
+2015,Outside equipment fire,162,8
+2015,Dumpster or other outside trash receptacle fire,154,43
+2015,Fires in structure other than in a building,112,15
+2015,Grass fire,143,9
+2015,"Commercial Compactor fire, confined to rubbish",117,1
+2015,"Fuel burner/boiler malfunction, fire confined",116,9
+2015,"Fire in mobile prop used as a fixed struc, Other",120,1
+2015,Garbage dump or sanitary landfill fire,152,1
+2015,Water vehicle fire,134,2
+2015,Outside stationary compactor/compacted trash fire,155,3
+2015,Cultivated trees or nursery stock fire,173,1
+2015,Outside storage fire,161,1
+2015,"Fire in portable building, fixed location",123,1
+2015,Off-road vehicle or heavy equipment fire,138,2
+2015,"Incinerator overload or malfunction, fire confined",115,1
+2016,"Cooking fire, confined to container",113,197
+2016,Building fire,111,213
+2016,Passenger vehicle fire,131,114
+2016,"Chimney or flue fire, confined to chimney or flue",114,4
+2016,"Outside rubbish, trash or waste fire",151,88
+2016,"Outside rubbish fire, Other",150,49
+2016,Rail vehicle fire,133,1
+2016,Brush or brush-and-grass mixture fire,142,45
+2016,Fires in structure other than in a building,112,15
+2016,"Special outside fire, Other",160,25
+2016,"Trash or rubbish fire, contained",118,52
+2016,"Mobile property (vehicle) fire, Other",130,29
+2016,"Natural vegetation fire, Other",140,30
+2016,Grass fire,143,16
+2016,Outside equipment fire,162,8
+2016,Road freight or transport vehicle fire,132,6
+2016,Dumpster or other outside trash receptacle fire,154,48
+2016,"Fuel burner/boiler malfunction, fire confined",116,7
+2016,Off-road vehicle or heavy equipment fire,138,1
+2016,Water vehicle fire,134,2
+2016,"Fire, Other",100,5
+2016,Outside stationary compactor/compacted trash fire,155,2
+2016,"Forest, woods or wildland fire",141,1
+2016,"Incinerator overload or malfunction, fire confined",115,1
+2016,Cultivated grain or crop fire,171,1
+2016,Construction or demolition landfill fire,153,3
+2016,Outside storage fire,161,1
+2016,Garbage dump or sanitary landfill fire,152,1
+2017,Passenger vehicle fire,131,108
+2017,"Outside rubbish, trash or waste fire",151,80
+2017,Building fire,111,162
+2017,"Cooking fire, confined to container",113,213
+2017,Grass fire,143,8
+2017,Dumpster or other outside trash receptacle fire,154,31
+2017,"Special outside fire, Other",160,26
+2017,Brush or brush-and-grass mixture fire,142,39
+2017,Outside storage fire,161,2
+2017,"Natural vegetation fire, Other",140,16
+2017,"Outside rubbish fire, Other",150,41
+2017,"Fire in portable building, fixed location",123,3
+2017,"Fire in mobile prop used as a fixed struc, Other",120,1
+2017,"Fire, Other",100,4
+2017,Fires in structure other than in a building,112,13
+2017,"Trash or rubbish fire, contained",118,32
+2017,"Mobile property (vehicle) fire, Other",130,21
+2017,Outside equipment fire,162,7
+2017,"Fuel burner/boiler malfunction, fire confined",116,4
+2017,"Forest, woods or wildland fire",141,4
+2017,"Commercial Compactor fire, confined to rubbish",117,2
+2017,Construction or demolition landfill fire,153,2
+2017,"Chimney or flue fire, confined to chimney or flue",114,1
+2017,Off-road vehicle or heavy equipment fire,138,1
+2017,Road freight or transport vehicle fire,132,1
+2017,"Cultivated vegetation, crop fire, Other",170,1
+2017,"Incinerator overload or malfunction, fire confined",115,1
+2018,Building fire,111,135
+2018,"Outside rubbish fire, Other",150,19
+2018,"Cooking fire, confined to container",113,129
+2018,Brush or brush-and-grass mixture fire,142,25
+2018,"Special outside fire, Other",160,15
+2018,"Outside rubbish, trash or waste fire",151,41
+2018,"Fuel burner/boiler malfunction, fire confined",116,6
+2018,"Mobile property (vehicle) fire, Other",130,12
+2018,"Trash or rubbish fire, contained",118,26
+2018,Outside equipment fire,162,7
+2018,"Fire, Other",100,11
+2018,Garbage dump or sanitary landfill fire,152,1
+2018,Dumpster or other outside trash receptacle fire,154,20
+2018,Grass fire,143,6
+2018,Self-propelled motor home or recreational vehicle,136,1
+2018,Passenger vehicle fire,131,58
+2018,"Natural vegetation fire, Other",140,13
+2018,Road freight or transport vehicle fire,132,4
+2018,"Commercial Compactor fire, confined to rubbish",117,2
+2018,Fires in structure other than in a building,112,7
+2018,"Forest, woods or wildland fire",141,1
+2018,Construction or demolition landfill fire,153,2
+2018,Rail vehicle fire,133,1
+2018,Outside storage fire,161,1
+2018,Fire in mobile home used as fixed residence,121,1
+2018,"Incinerator overload or malfunction, fire confined",115,1
+2018,"Chimney or flue fire, confined to chimney or flue",114,1
+2018,"Fire in motor home, camper, recreational vehicle",122,2
+2019,"Cooking fire, confined to container",113,134
+2019,"Outside rubbish fire, Other",150,32
+2019,Building fire,111,120
+2019,"Outside rubbish, trash or waste fire",151,41
+2019,Outside mailbox fire,164,2
+2019,"Special outside fire, Other",160,16
+2019,"Fire, Other",100,7
+2019,Passenger vehicle fire,131,47
+2019,"Trash or rubbish fire, contained",118,24
+2019,"Chimney or flue fire, confined to chimney or flue",114,8
+2019,"Fuel burner/boiler malfunction, fire confined",116,1
+2019,Outside equipment fire,162,4
+2019,Road freight or transport vehicle fire,132,2
+2019,Fires in structure other than in a building,112,7
+2019,"Mobile property (vehicle) fire, Other",130,10
+2019,"Forest, woods or wildland fire",141,1
+2019,Dumpster or other outside trash receptacle fire,154,20
+2019,Brush or brush-and-grass mixture fire,142,25
+2019,"Commercial Compactor fire, confined to rubbish",117,1
+2019,Grass fire,143,9
+2019,"Natural vegetation fire, Other",140,13
+2019,"Fire in portable building, fixed location",123,1
+2019,"Fire in motor home, camper, recreational vehicle",122,1
+2019,Outside gas or vapor combustion explosion,163,1
+2019,Camper or recreational vehicle (RV) fire,137,1
+2020,"Mobile property (vehicle) fire, Other",130,4
+2020,Passenger vehicle fire,131,58
+2020,Grass fire,143,8
+2020,Building fire,111,127
+2020,Dumpster or other outside trash receptacle fire,154,31
+2020,"Outside rubbish, trash or waste fire",151,48
+2020,"Special outside fire, Other",160,14
+2020,"Outside rubbish fire, Other",150,35
+2020,Fires in structure other than in a building,112,9
+2020,"Trash or rubbish fire, contained",118,28
+2020,"Fuel burner/boiler malfunction, fire confined",116,5
+2020,Off-road vehicle or heavy equipment fire,138,2
+2020,"Fire, Other",100,6
+2020,"Chimney or flue fire, confined to chimney or flue",114,3
+2020,Brush or brush-and-grass mixture fire,142,46
+2020,Outside stationary compactor/compacted trash fire,155,1
+2020,Outside equipment fire,162,6
+2020,Water vehicle fire,134,1
+2020,"Natural vegetation fire, Other",140,26
+2020,Outside storage fire,161,4
+2020,"Cooking fire, confined to container",113,128
+2020,Fire in mobile home used as fixed residence,121,1
+2020,"Fire in portable building, fixed location",123,1
+2020,"Cultivated vegetation, crop fire, Other",170,1
+2020,"Commercial Compactor fire, confined to rubbish",117,1
+2020,Road freight or transport vehicle fire,132,1
+2020,Construction or demolition landfill fire,153,1
+2021,Building fire,111,119
+2021,Passenger vehicle fire,131,56
+2021,"Outside rubbish, trash or waste fire",151,42
+2021,Outside stationary compactor/compacted trash fire,155,2
+2021,"Trash or rubbish fire, contained",118,27
+2021,"Special outside fire, Other",160,17
+2021,"Fuel burner/boiler malfunction, fire confined",116,3
+2021,Outside storage fire,161,4
+2021,"Chimney or flue fire, confined to chimney or flue",114,5
+2021,Brush or brush-and-grass mixture fire,142,46
+2021,"Mobile property (vehicle) fire, Other",130,10
+2021,Fires in structure other than in a building,112,4
+2021,Grass fire,143,5
+2021,"Fire, Other",100,3
+2021,"Forest, woods or wildland fire",141,3
+2021,"Natural vegetation fire, Other",140,9
+2021,Construction or demolition landfill fire,153,1
+2021,Road freight or transport vehicle fire,132,3
+2021,Cultivated trees or nursery stock fire,173,2
+2021,"Cultivated vegetation, crop fire, Other",170,1
+2021,Water vehicle fire,134,1
+2021,"Cooking fire, confined to container",113,106
+2021,Dumpster or other outside trash receptacle fire,154,25
+2021,"Outside rubbish fire, Other",150,30
+2021,Outside equipment fire,162,3

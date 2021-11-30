@@ -1,0 +1,757 @@
+﻿neighborhood,totalperneigh,year
+Swisshelm Park,1,2013
+St. Clair,1,2013
+Ridgemont,1,2013
+New Homestead,1,2013
+Chartiers City,1,2013
+Duquesne Heights,1,2013
+Mt. Oliver,1,2013
+Glen Hazel,2,2013
+West End,2,2013
+Windgap,2,2013
+Esplen,2,2013
+Regent Square,3,2013
+Allegheny West,3,2013
+Fairywood,3,2013
+Oakwood,3,2013
+Arlington,3,2013
+Strip District,4,2013
+Bon Air,4,2013
+Manchester,4,2013
+Summer Hill,4,2013
+Spring Garden,5,2013
+Chateau,5,2013
+Banksville,5,2013
+Morningside,5,2013
+California-Kirkbride,5,2013
+Friendship,5,2013
+Troy Hill,6,2013
+Elliott,6,2013
+Central Lawrenceville,6,2013
+Westwood,6,2013
+South Shore,6,2013
+Allegheny Center,6,2013
+Overbrook,7,2013
+Polish Hill,7,2013
+Homewood West,7,2013
+Lower Lawrenceville,7,2013
+Lincoln Place,7,2013
+Upper Hill,8,2013
+Point Breeze North,8,2013
+Bedford Dwellings,8,2013
+Point Breeze,8,2013
+Highland Park,8,2013
+Fineview,8,2013
+Knoxville,10,2013
+Upper Lawrenceville,10,2013
+Allentown,11,2013
+Beechview,11,2013
+Garfield,11,2013
+Stanton Heights,11,2013
+West Oakland,11,2013
+Northview Heights,11,2013
+Lincoln-Lemington-Belmar,12,2013
+East Allegheny,13,2013
+Greenfield,13,2013
+Terrace Village,13,2013
+North Shore,14,2013
+South Oakland,14,2013
+Bluff,14,2013
+South Side Slopes,14,2013
+Middle Hill,15,2013
+Central Oakland,15,2013
+Central Northside,15,2013
+Crafton Heights,16,2013
+Bloomfield,16,2013
+Marshall-Shadeland,16,2013
+Brighton Heights,16,2013
+Beltzhoover,16,2013
+East Hills,17,2013
+Larimer,17,2013
+Spring Hill-City View,18,2013
+Perry North,18,2013
+North Oakland,19,2013
+Homewood South,21,2013
+Homewood North,21,2013
+Mount Washington,21,2013
+Sheraden,22,2013
+Squirrel Hill North,22,2013
+Brookline,24,2013
+Crawford-Roberts,24,2013
+Shadyside,25,2013
+Squirrel Hill South,26,2013
+South Side Flats,26,2013
+Perry South,27,2013
+Central Business District,31,2013
+Hazelwood,32,2013
+Carrick,34,2013
+East Liberty,35,2013
+West End,1,2014
+Ridgemont,1,2014
+Hays,1,2014
+Bon Air,2,2014
+Westwood,2,2014
+Swisshelm Park,2,2014
+Friendship,2,2014
+Windgap,2,2014
+Arlington Heights,2,2014
+Spring Garden,2,2014
+East Carnegie,2,2014
+Mt. Oliver,2,2014
+Oakwood,2,2014
+Fairywood,3,2014
+Overbrook,3,2014
+Morningside,3,2014
+Strip District,3,2014
+St. Clair,3,2014
+Chartiers City,3,2014
+Esplen,3,2014
+Allegheny West,4,2014
+Summer Hill,4,2014
+Upper Lawrenceville,4,2014
+Chateau,4,2014
+Polish Hill,4,2014
+California-Kirkbride,4,2014
+Bedford Dwellings,5,2014
+Manchester,5,2014
+Point Breeze North,5,2014
+Duquesne Heights,5,2014
+East Allegheny,6,2014
+Stanton Heights,7,2014
+Banksville,7,2014
+Fineview,7,2014
+Glen Hazel,7,2014
+Upper Hill,7,2014
+Northview Heights,7,2014
+New Homestead,7,2014
+Point Breeze,8,2014
+Bluff,8,2014
+West Oakland,8,2014
+Lower Lawrenceville,8,2014
+Allegheny Center,8,2014
+Arlington,9,2014
+Central Oakland,9,2014
+Elliott,9,2014
+Central Lawrenceville,9,2014
+Greenfield,9,2014
+North Shore,10,2014
+Lincoln Place,11,2014
+Central Northside,11,2014
+Perry North,11,2014
+Middle Hill,11,2014
+Troy Hill,12,2014
+Spring Hill-City View,12,2014
+Terrace Village,12,2014
+Beechview,12,2014
+Highland Park,13,2014
+South Oakland,13,2014
+Crawford-Roberts,13,2014
+Marshall-Shadeland,13,2014
+Garfield,14,2014
+Homewood West,14,2014
+South Side Slopes,14,2014
+Crafton Heights,15,2014
+Knoxville,15,2014
+Larimer,16,2014
+East Hills,16,2014
+North Oakland,17,2014
+Allentown,18,2014
+Shadyside,18,2014
+Beltzhoover,19,2014
+Squirrel Hill North,20,2014
+Brighton Heights,21,2014
+Mount Washington,21,2014
+Lincoln-Lemington-Belmar,22,2014
+South Side Flats,23,2014
+Brookline,23,2014
+Perry South,23,2014
+Bloomfield,23,2014
+Homewood South,23,2014
+Homewood North,25,2014
+East Liberty,26,2014
+Sheraden,29,2014
+Central Business District,32,2014
+Squirrel Hill South,33,2014
+Hazelwood,36,2014
+Carrick,38,2014
+Fairywood,1,2015
+Summer Hill,1,2015
+Oakwood,1,2015
+West End,1,2015
+Swisshelm Park,1,2015
+Regent Square,1,2015
+Chartiers City,1,2015
+Ridgemont,2,2015
+Windgap,2,2015
+Polish Hill,2,2015
+St. Clair,2,2015
+Mt. Oliver,2,2015
+Glen Hazel,3,2015
+Bon Air,3,2015
+Point Breeze North,3,2015
+Fineview,3,2015
+New Homestead,3,2015
+Esplen,3,2015
+Hays,3,2015
+South Shore,3,2015
+Stanton Heights,4,2015
+Upper Lawrenceville,4,2015
+Homewood West,4,2015
+Bedford Dwellings,4,2015
+Lower Lawrenceville,4,2015
+Troy Hill,5,2015
+California-Kirkbride,5,2015
+North Shore,5,2015
+Westwood,5,2015
+Allegheny West,6,2015
+Allegheny Center,6,2015
+Chateau,6,2015
+Duquesne Heights,6,2015
+Arlington,7,2015
+Strip District,7,2015
+South Oakland,7,2015
+Upper Hill,7,2015
+Friendship,7,2015
+Lincoln Place,8,2015
+Morningside,8,2015
+Spring Garden,8,2015
+Highland Park,8,2015
+Terrace Village,9,2015
+Crafton Heights,9,2015
+South Side Slopes,9,2015
+West Oakland,9,2015
+Crawford-Roberts,10,2015
+Point Breeze,11,2015
+Banksville,11,2015
+Overbrook,11,2015
+Middle Hill,12,2015
+Bluff,12,2015
+Manchester,12,2015
+Elliott,12,2015
+Northview Heights,12,2015
+Perry North,14,2015
+Squirrel Hill North,14,2015
+Central Northside,15,2015
+East Allegheny,16,2015
+Central Lawrenceville,16,2015
+Greenfield,16,2015
+Spring Hill-City View,16,2015
+Beltzhoover,17,2015
+Brighton Heights,17,2015
+North Oakland,17,2015
+Central Business District,17,2015
+Beechview,18,2015
+Perry South,18,2015
+Marshall-Shadeland,19,2015
+Allentown,19,2015
+Garfield,19,2015
+Central Oakland,19,2015
+Larimer,20,2015
+East Hills,20,2015
+South Side Flats,21,2015
+Bloomfield,21,2015
+Shadyside,21,2015
+Knoxville,22,2015
+Homewood North,24,2015
+Squirrel Hill South,26,2015
+Sheraden,27,2015
+East Liberty,28,2015
+Homewood South,30,2015
+Lincoln-Lemington-Belmar,31,2015
+Hazelwood,32,2015
+Mount Washington,32,2015
+Brookline,35,2015
+Carrick,39,2015
+Friendship,1,2016
+Regent Square,1,2016
+Oakwood,1,2016
+Mt. Oliver,1,2016
+Ridgemont,1,2016
+Glen Hazel,1,2016
+Esplen,1,2016
+Upper Hill,2,2016
+St. Clair,2,2016
+East Carnegie,2,2016
+Arlington Heights,2,2016
+Bon Air,2,2016
+Bedford Dwellings,3,2016
+South Shore,3,2016
+Chartiers City,3,2016
+Windgap,3,2016
+Overbrook,3,2016
+Upper Lawrenceville,4,2016
+Fairywood,4,2016
+Highland Park,4,2016
+Lincoln Place,4,2016
+Duquesne Heights,4,2016
+Homewood West,5,2016
+Fineview,5,2016
+California-Kirkbride,5,2016
+Summer Hill,5,2016
+Polish Hill,5,2016
+Point Breeze North,5,2016
+Hays,5,2016
+North Shore,6,2016
+Elliott,6,2016
+Westwood,6,2016
+Banksville,6,2016
+New Homestead,6,2016
+Chateau,6,2016
+Allegheny West,7,2016
+Squirrel Hill North,8,2016
+West Oakland,8,2016
+Stanton Heights,8,2016
+Lower Lawrenceville,8,2016
+Strip District,8,2016
+Northview Heights,8,2016
+Arlington,8,2016
+Troy Hill,8,2016
+Garfield,9,2016
+East Allegheny,9,2016
+Crawford-Roberts,9,2016
+Central Lawrenceville,9,2016
+Crafton Heights,10,2016
+West End,10,2016
+Terrace Village,12,2016
+Bloomfield,12,2016
+South Side Slopes,12,2016
+Central Oakland,12,2016
+Brookline,12,2016
+Point Breeze,12,2016
+Perry North,13,2016
+Allegheny Center,13,2016
+Spring Hill-City View,13,2016
+Brighton Heights,14,2016
+Greenfield,15,2016
+North Oakland,15,2016
+South Oakland,15,2016
+Marshall-Shadeland,15,2016
+Middle Hill,15,2016
+Central Northside,16,2016
+Beltzhoover,16,2016
+Homewood South,16,2016
+Manchester,16,2016
+Sheraden,17,2016
+Knoxville,18,2016
+Allentown,18,2016
+Bluff,18,2016
+Shadyside,19,2016
+East Liberty,20,2016
+Mount Washington,20,2016
+Beechview,22,2016
+Lincoln-Lemington-Belmar,25,2016
+Perry South,25,2016
+East Hills,25,2016
+Larimer,26,2016
+Homewood North,27,2016
+Hazelwood,28,2016
+Squirrel Hill South,29,2016
+Carrick,31,2016
+South Side Flats,41,2016
+Central Business District,42,2016
+Strip District,1,2017
+Summer Hill,1,2017
+Windgap,1,2017
+Mt. Oliver,1,2017
+South Shore,1,2017
+Esplen,1,2017
+Glen Hazel,2,2017
+East Carnegie,2,2017
+New Homestead,2,2017
+Oakwood,2,2017
+Spring Garden,2,2017
+Fairywood,2,2017
+Westwood,2,2017
+Polish Hill,2,2017
+St. Clair,2,2017
+Arlington Heights,2,2017
+Swisshelm Park,2,2017
+Upper Lawrenceville,3,2017
+Duquesne Heights,3,2017
+Friendship,3,2017
+California-Kirkbride,3,2017
+Stanton Heights,3,2017
+Central Lawrenceville,4,2017
+Lincoln Place,4,2017
+Upper Hill,4,2017
+Ridgemont,4,2017
+Bon Air,4,2017
+Elliott,5,2017
+Crafton Heights,5,2017
+Point Breeze,5,2017
+West Oakland,5,2017
+Homewood West,5,2017
+Allentown,6,2017
+Northview Heights,6,2017
+Bedford Dwellings,6,2017
+Chateau,6,2017
+Allegheny West,6,2017
+Arlington,6,2017
+North Shore,6,2017
+Overbrook,6,2017
+Lower Lawrenceville,6,2017
+Central Oakland,6,2017
+Manchester,7,2017
+Morningside,7,2017
+Spring Hill-City View,7,2017
+South Oakland,7,2017
+Point Breeze North,7,2017
+Crawford-Roberts,7,2017
+Middle Hill,8,2017
+Highland Park,8,2017
+Allegheny Center,9,2017
+Terrace Village,9,2017
+Fineview,10,2017
+Squirrel Hill North,10,2017
+Garfield,10,2017
+Larimer,11,2017
+South Side Slopes,11,2017
+Troy Hill,11,2017
+North Oakland,11,2017
+Banksville,11,2017
+Shadyside,12,2017
+Greenfield,13,2017
+Perry South,13,2017
+Central Northside,13,2017
+East Allegheny,14,2017
+Beechview,15,2017
+Bluff,15,2017
+East Liberty,16,2017
+East Hills,16,2017
+Perry North,17,2017
+Brookline,17,2017
+Marshall-Shadeland,17,2017
+Beltzhoover,18,2017
+Knoxville,19,2017
+Brighton Heights,19,2017
+Sheraden,19,2017
+Homewood North,20,2017
+Homewood South,21,2017
+Bloomfield,23,2017
+Central Business District,25,2017
+Lincoln-Lemington-Belmar,26,2017
+Hazelwood,27,2017
+Squirrel Hill South,28,2017
+Mount Washington,28,2017
+Carrick,30,2017
+South Side Flats,34,2017
+Summer Hill,1,2018
+Swisshelm Park,1,2018
+New Homestead,1,2018
+Hays,1,2018
+Ridgemont,1,2018
+Bon Air,1,2018
+St. Clair,1,2018
+Allegheny Center,2,2018
+Troy Hill,2,2018
+Arlington,2,2018
+Arlington Heights,2,2018
+Allegheny West,2,2018
+Chateau,2,2018
+Glen Hazel,2,2018
+Morningside,2,2018
+Central Oakland,2,2018
+North Shore,3,2018
+Overbrook,3,2018
+South Shore,3,2018
+Lower Lawrenceville,3,2018
+Fineview,3,2018
+Strip District,3,2018
+Fairywood,4,2018
+Bedford Dwellings,4,2018
+Terrace Village,4,2018
+Windgap,4,2018
+Polish Hill,4,2018
+Point Breeze North,4,2018
+Northview Heights,4,2018
+Duquesne Heights,4,2018
+Elliott,4,2018
+Homewood West,4,2018
+Highland Park,4,2018
+Lincoln Place,4,2018
+Upper Hill,4,2018
+Esplen,4,2018
+Friendship,5,2018
+West Oakland,5,2018
+Upper Lawrenceville,5,2018
+Banksville,5,2018
+Manchester,5,2018
+Crawford-Roberts,6,2018
+California-Kirkbride,6,2018
+Greenfield,6,2018
+North Oakland,6,2018
+Larimer,6,2018
+Stanton Heights,6,2018
+Spring Hill-City View,6,2018
+Central Lawrenceville,7,2018
+Marshall-Shadeland,7,2018
+South Oakland,7,2018
+Perry North,8,2018
+Brookline,8,2018
+South Side Slopes,8,2018
+East Liberty,8,2018
+Garfield,8,2018
+Crafton Heights,9,2018
+Beltzhoover,9,2018
+Homewood South,9,2018
+East Hills,9,2018
+Brighton Heights,9,2018
+Allentown,9,2018
+Point Breeze,9,2018
+Bluff,9,2018
+Middle Hill,9,2018
+Bloomfield,10,2018
+Mount Washington,10,2018
+Sheraden,11,2018
+Perry South,11,2018
+Central Northside,11,2018
+Beechview,11,2018
+Central Business District,12,2018
+Squirrel Hill North,12,2018
+East Allegheny,12,2018
+Knoxville,13,2018
+Shadyside,13,2018
+Homewood North,14,2018
+Hazelwood,16,2018
+Lincoln-Lemington-Belmar,18,2018
+Squirrel Hill South,20,2018
+Carrick,22,2018
+South Side Flats,24,2018
+Perry North,1,2019
+Bedford Dwellings,1,2019
+Chartiers City,1,2019
+Manchester,1,2019
+Arlington Heights,1,2019
+Esplen,1,2019
+Oakwood,1,2019
+Hays,1,2019
+Morningside,1,2019
+Friendship,2,2019
+Fineview,2,2019
+South Side Slopes,2,2019
+Windgap,2,2019
+Point Breeze North,2,2019
+Spring Garden,2,2019
+Upper Hill,2,2019
+South Shore,2,2019
+California-Kirkbride,2,2019
+West End,2,2019
+Homewood West,3,2019
+Crafton Heights,3,2019
+Allegheny West,3,2019
+Banksville,3,2019
+Swisshelm Park,4,2019
+Lower Lawrenceville,4,2019
+Northview Heights,4,2019
+Beltzhoover,4,2019
+North Shore,4,2019
+Larimer,4,2019
+South Oakland,4,2019
+Garfield,5,2019
+Central Oakland,5,2019
+Arlington,5,2019
+Stanton Heights,5,2019
+Point Breeze,5,2019
+Chateau,5,2019
+Allentown,6,2019
+Upper Lawrenceville,6,2019
+Central Lawrenceville,6,2019
+Elliott,6,2019
+North Oakland,7,2019
+Strip District,7,2019
+Spring Hill-City View,7,2019
+East Allegheny,7,2019
+Brighton Heights,7,2019
+Lincoln Place,7,2019
+Marshall-Shadeland,8,2019
+Greenfield,8,2019
+Overbrook,8,2019
+Brookline,8,2019
+Highland Park,8,2019
+Perry South,9,2019
+Homewood South,9,2019
+East Hills,9,2019
+Crawford-Roberts,9,2019
+Sheraden,10,2019
+Squirrel Hill North,10,2019
+Terrace Village,10,2019
+Middle Hill,11,2019
+Bloomfield,11,2019
+Beechview,11,2019
+Mount Washington,11,2019
+Troy Hill,12,2019
+Hazelwood,12,2019
+Lincoln-Lemington-Belmar,12,2019
+Bluff,12,2019
+Homewood North,13,2019
+Central Northside,14,2019
+Squirrel Hill South,15,2019
+Knoxville,16,2019
+South Side Flats,16,2019
+East Liberty,16,2019
+Shadyside,23,2019
+Carrick,26,2019
+Central Business District,26,2019
+Westwood,1,2020
+Hays,1,2020
+Glen Hazel,1,2020
+Banksville,1,2020
+South Shore,1,2020
+Summer Hill,1,2020
+Friendship,1,2020
+West End,1,2020
+East Carnegie,2,2020
+Oakwood,2,2020
+Overbrook,2,2020
+Chateau,2,2020
+Spring Garden,2,2020
+Swisshelm Park,2,2020
+Chartiers City,2,2020
+Allegheny West,2,2020
+Greenfield,2,2020
+Homewood West,2,2020
+Fairywood,3,2020
+Morningside,3,2020
+Arlington Heights,3,2020
+Esplen,3,2020
+Upper Hill,3,2020
+Mt. Oliver,3,2020
+Crafton Heights,4,2020
+Northview Heights,4,2020
+Stanton Heights,4,2020
+Bedford Dwellings,4,2020
+Point Breeze,4,2020
+North Shore,4,2020
+Allegheny Center,4,2020
+Point Breeze North,4,2020
+Highland Park,5,2020
+South Oakland,5,2020
+Lincoln Place,5,2020
+Crawford-Roberts,5,2020
+Lower Lawrenceville,5,2020
+Central Lawrenceville,5,2020
+Upper Lawrenceville,5,2020
+Strip District,5,2020
+Manchester,6,2020
+Central Northside,6,2020
+Middle Hill,6,2020
+Polish Hill,6,2020
+Troy Hill,6,2020
+West Oakland,6,2020
+South Side Slopes,6,2020
+Duquesne Heights,7,2020
+North Oakland,7,2020
+Fineview,7,2020
+Terrace Village,7,2020
+Squirrel Hill North,7,2020
+Elliott,8,2020
+Spring Hill-City View,9,2020
+Homewood North,9,2020
+East Hills,9,2020
+Carrick,9,2020
+Perry South,10,2020
+Beltzhoover,10,2020
+Larimer,10,2020
+Central Oakland,10,2020
+Sheraden,10,2020
+Marshall-Shadeland,10,2020
+Shadyside,11,2020
+Perry North,12,2020
+Lincoln-Lemington-Belmar,12,2020
+Beechview,13,2020
+Bloomfield,13,2020
+Homewood South,14,2020
+Brighton Heights,14,2020
+Allentown,14,2020
+Bluff,14,2020
+Knoxville,15,2020
+Garfield,15,2020
+South Side Flats,16,2020
+Brookline,18,2020
+East Liberty,18,2020
+Central Business District,18,2020
+East Allegheny,19,2020
+Hazelwood,19,2020
+Mount Washington,20,2020
+Squirrel Hill South,22,2020
+Swisshelm Park,1,2021
+Upper Lawrenceville,1,2021
+Morningside,1,2021
+West End,1,2021
+Chateau,1,2021
+Glen Hazel,1,2021
+Windgap,1,2021
+Esplen,1,2021
+Westwood,1,2021
+Chartiers City,1,2021
+Friendship,2,2021
+South Shore,2,2021
+East Carnegie,2,2021
+Allegheny Center,2,2021
+Bon Air,2,2021
+Summer Hill,2,2021
+Fairywood,2,2021
+Lower Lawrenceville,3,2021
+Duquesne Heights,3,2021
+Point Breeze,3,2021
+South Oakland,3,2021
+Central Oakland,3,2021
+Bedford Dwellings,3,2021
+Terrace Village,3,2021
+North Shore,3,2021
+Allegheny West,3,2021
+West Oakland,3,2021
+Perry North,3,2021
+Lincoln Place,3,2021
+Point Breeze North,3,2021
+California-Kirkbride,4,2021
+Troy Hill,4,2021
+Strip District,4,2021
+Crafton Heights,4,2021
+Larimer,4,2021
+Arlington,4,2021
+Banksville,4,2021
+Stanton Heights,4,2021
+Garfield,4,2021
+Northview Heights,4,2021
+Polish Hill,4,2021
+Central Lawrenceville,4,2021
+Spring Hill-City View,5,2021
+Crawford-Roberts,5,2021
+Upper Hill,5,2021
+Beltzhoover,5,2021
+South Side Slopes,5,2021
+Overbrook,5,2021
+Elliott,6,2021
+Hays,6,2021
+Homewood West,6,2021
+Middle Hill,7,2021
+Central Northside,7,2021
+East Hills,7,2021
+Perry South,8,2021
+Brookline,8,2021
+Beechview,9,2021
+Manchester,9,2021
+Squirrel Hill North,9,2021
+Mount Washington,9,2021
+Homewood North,10,2021
+Marshall-Shadeland,11,2021
+Bloomfield,11,2021
+Allentown,11,2021
+Sheraden,11,2021
+Highland Park,11,2021
+Hazelwood,11,2021
+North Oakland,12,2021
+Lincoln-Lemington-Belmar,12,2021
+Brighton Heights,12,2021
+East Liberty,12,2021
+Shadyside,12,2021
+Greenfield,13,2021
+East Allegheny,13,2021
+Knoxville,14,2021
+Bluff,16,2021
+Central Business District,17,2021
+South Side Flats,17,2021
+Homewood South,22,2021
+Carrick,23,2021
+Squirrel Hill South,24,2021
