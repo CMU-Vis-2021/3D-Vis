@@ -12,6 +12,7 @@ It was Fire Prevention Month in October, a month dedicated to improving fire saf
 https://docs.google.com/document/d/1PRNFIGeYvFSHjdqIyugaHdZ6K_8RGz9HZUfGA3sCe0I/edit?usp=sharing
 
 ## Video
+https://youtu.be/2ijNBxMCZus
 
 ## Running Instructions
 
